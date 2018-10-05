@@ -55,9 +55,9 @@ clean$Schooltype<- NA
 for (i in 1:nrow(clean)) {
   if (clean$CONTROL[i]==1){
     clean$Schooltype[i]<-"Public"}
-  else if (clean$CONTROL[i]==2){
-    clean$Schooltype[i]<- "Private nonprofit"}
   else if (clean$CONTROL[i]==3){
+    clean$Schooltype[i]<- "Private nonprofit"}
+  else if (clean$CONTROL[i]==2){
     clean$Schooltype[i]<-"Private for-profit"}
 }
 
@@ -74,6 +74,17 @@ for (i in 1:nrow(clean)) {
   }
   else if (clean$HIGHDEG[i]==1){
     clean$Highestdegree[i]<- "Certificate"
+  }
+}
+
+###Complete the URLs
+clean$url<- NA
+for(i in 1:nrow(clean)){
+  if (grepl('http',clean$INSTURL[i])==FALSE){
+    clean$url[i]<- paste("https://",clean$INSTURL[i],sep="")
+  }
+  else{
+    clean$url[i]<- clean$INSTURL[i]
   }
 }
 
