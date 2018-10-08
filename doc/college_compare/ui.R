@@ -20,14 +20,19 @@ shinyUI(fluidPage(
            hr(),
            fluidRow(
              column(7,DT::dataTableOutput("compare_table"),
-                    plotOutput("compare_radar",width="100%", height = "650px")),
-             column(5,plotOutput("compare_line_adm",width="100%", height = "300px"),
-                    br(),hr(),br(),
+                    plotOutput("compare_radar",
+                               width="100%",height = "650px")),
+             column(5,plotOutput("compare_line_adm",
+                                 width="100%", height = "300px"),
+                    br(),
+                    hr(),
+                    br(),
                     plotOutput("compare_line_tuitionin",width="100%", height = "300px"),
-                    br(),hr(),br(),
+                    br(),
+                    hr(),
+                    br(),
                     plotOutput("compare_line_tuitionout",width="100%", height = "300px")))
           
-           
           )
                  ))
        
