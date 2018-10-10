@@ -13,7 +13,7 @@ shinyServer(
     output$map <- renderPlot({
       args <- switch(input$var,
                      "Heat index" = list(heat_index$index, "orange", "Heat index"),
-                     "unemployment rate" = list(employ$Rate, "black", "unemployment rate"),
+                     "unemployment rate" = list(employ$Rate, "black", "unemployment rate")
                      
 )
       args$min <- input$range[1]
