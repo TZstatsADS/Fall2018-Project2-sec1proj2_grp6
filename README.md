@@ -33,7 +33,7 @@ We believe our APP will definitely provide graduating high school students with 
    + Huiyu Zhang: "College Information Map" Tab designing, data processing, visualization, and data cleaning 
    + Shichao Jia: "Living Quality County Summary" Tab designing, data cleaning and visulization
    + Sizhu Chen: "College Comparison" Tab designing, data cleaning and processing, and visulization  
-   + Yanchen Chen: "Scoreboard" Tab designing, data visulization and modeling
+   + Yanchen Chen: "College Scoreboard" Tab designing, data visulization and modeling
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
