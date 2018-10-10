@@ -30,7 +30,7 @@ We believe our APP will definitely provide graduating high school students with 
 
 + **Contribution Statement**:All team members approve our work presented in this GitHub repository including this contributions statement.
    + Binglun Zhao:
-   + Huiyu Zhang:  
+   + Huiyu Zhang: "College Information Map" Tab designing, data processing, visualization, and data cleaning 
    + Shichao Jia:
    + Sizhu Chen: "College Comparison" Tab designing, data processing and building  
    + Yanchen Chen: "Scoreboard" Tab designing, data visulization and modeling
