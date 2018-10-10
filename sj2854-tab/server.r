@@ -4,7 +4,7 @@ library(maps)
 library(mapproj)
 employ <- read.csv("employ.csv")
 heat_index <- read.csv("heat_index.csv")
-income <- read.csv("income.csv")
+table_final <- read.csv("table_final.csv")
 source("helpers.R")
 
 
@@ -20,6 +20,11 @@ shinyServer(
       args$max <- input$range[2]
       
       do.call(percent_map, args)
+    })
+    
+    output$info_table<-DT::renderDataTable({
+      DT::datatable(table_final
+      )
     })
   }
 )

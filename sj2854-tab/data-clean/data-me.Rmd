@@ -10,6 +10,31 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+
+```{r}
+table <- read.csv(file="table_1.csv", header=TRUE, sep=",")
+dim
+table <- table[1:51,]
+colnames(table) <- c("State abb","State","Population change","Poverty popn","Labor Force","Employed","Unemployed","Unemployed rate","household income","max temp","min temp","heat_index","crime rate")
+write.csv(table, file = "table_final.csv")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```{r}
 
 employ <- read.csv(file="uneploment.csv", header=TRUE, sep=",")
@@ -48,7 +73,7 @@ heat_index$State <- gsub( " ", "", heat_index$State)
 # r<- right_join(heat_index,employ)
 # l<- left_join(heat_index,employ)
 # inner_join(r,l)
-# total <- merge(heat_index,employ,by= c("County", "State"))
+total <- merge(heat_index,employ,by= c("County", "State"))
 
 ```
 ```{r}

@@ -19,6 +19,8 @@ shinyUI(fluidPage(
                   min = 0, max = 100, value = c(0, 100))
       ),
     
-    mainPanel(plotOutput("map"))
-  )
-))
+    mainPanel(
+      plotOutput("map",width = "120%",height = "700px"),
+      DT::dataTableOutput("info_table")
+           
+    ))))
