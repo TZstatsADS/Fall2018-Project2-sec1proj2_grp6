@@ -4,19 +4,22 @@
 Term: Fall 2018
 
 + Team #: Group 6
-+ **College Sense**: 
-	+ team member 1: Binglun Zhao
-	+ team member 2: Huiyu Zhang
-	+ team member 3: Shichao Jia
-	+ team member 4: Sizhu Chen
-	+ team member 5: Yanchen Chen
++ **Team Member**: 
+	+ Binglun Zhao bz2342@columbia.edu
+	+ Huiyu Zhang  hz2497@columbia.edu
+	+ Shichao Jia  sj2854@columbia.edu
+	+ Sizhu Chen   sc4248@columbia.edu
+	+ Yanchen Chen yc3373@columbia.edu
 	
-+ **APP link**: 
++ **APP Entry**:  [College Sense](http://)
 
-+ **Project summary**: 
-College applications are always a huge struggle to most high school students. Based on this concern, our team attampted to make the college search process much easier. In this project, we download data sourses  from New State govenment website. Our team develop a shiny app through four prospects, such as College infomation map, College Comprison, Living Quality summary and scoreboard. 
++ **Project Summary**: 
+College selection is always a big struggle to most of high school students. Based on this concern, our team designed a user-friendly ShinyAPP to help those with various information of US colleges from different angles. <br/>
+We collected as much data as possible, and established four interactive and well-visualized funtioning pages: College infomation Map, College Comprison, Living Quality Summary and College Scoreboard.<br/>
+We believe our APP will definitely provide graduating high school students with useful information to make optimal choices.
 
-+ **Data source**:
+
++ **Data Source**:
    - https://collegescorecard.ed.gov/data/
    - https://www.ers.usda.gov
    - https://wonder.cdc.gov/NASA-NLDAS.html
@@ -25,8 +28,12 @@ College applications are always a huge struggle to most high school students. Ba
    - https://wonder.cdc.gov/wonder
    - https://www.forbes.com/sites/nataliesportelli/2016/07/06/the-full-list-of-americas-top-colleges-2016/#191c50d569a4
 
-+ **Contribution statement**:
-
++ **Contribution Statement**:All team members approve our work presented in this GitHub repository including this contributions statement.
+   + Binglun Zhao:
+   + Huiyu Zhang:  
+   + Shichao Jia:
+   + Sizhu Chen: "College Comparison" Tab designing, data processing and building  
+   + Yanchen Chen:
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
