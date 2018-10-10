@@ -33,7 +33,7 @@ We believe our APP will definitely provide graduating high school students with 
    + Huiyu Zhang:  
    + Shichao Jia:
    + Sizhu Chen: "College Comparison" Tab designing, data processing and building  
-   + Yanchen Chen: "Scoreboard" Tab designing, data visulization and building
+   + Yanchen Chen: "Scoreboard" Tab designing, data visulization and modeling
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
