@@ -17,7 +17,7 @@ Term: Fall 2018
 College applications are always a huge struggle to most high school students. Based on this concern, our team attampted to make the college search process much easier. In this project, we download data sourses  from New State govenment website. Our team develop a shiny app through four prospects, such as College infomation map, College Comprison, Living Quality summary and scoreboard. 
 
 + **Data source**:
--https://collegescorecard.ed.gov/data/
++ https://collegescorecard.ed.gov/data/
 -https://www.ers.usda.gov
 -https://wonder.cdc.gov/NASA-NLDAS.html
 -https://www.bls.gov/lau/
