@@ -3,7 +3,7 @@
 ## Project Title: College Sense
 Term: Fall 2018
 
-+ Team #6
++ Team #: Group 6
 + **College Sense**: 
 	+ team member 1: Binglun Zhao
 	+ team member 2: Huiyu Zhang
