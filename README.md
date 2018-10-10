@@ -11,7 +11,7 @@ Term: Fall 2018
 	+ Sizhu Chen   sc4248@columbia.edu
 	+ Yanchen Chen yc3373@columbia.edu
 	
-+ **APP Entry**:  [College Sense](http://)
++ **APP Entry**:  [College Sense](https://bz2342.shinyapps.io/fall2018-sec1-proj2-grp6/)
 
 + **Project Summary**: 
 College selection is always a big struggle to most of high school students. Based on this concern, our team designed a user-friendly ShinyAPP to help those with various information of US colleges from different angles. <br/>
@@ -32,7 +32,7 @@ We believe our APP will definitely provide graduating high school students with 
    + Binglun Zhao:
    + Huiyu Zhang: "College Information Map" Tab designing, data processing, visualization, and data cleaning 
    + Shichao Jia:
-   + Sizhu Chen: "College Comparison" Tab designing, data processing and building  
+   + Sizhu Chen: "College Comparison" Tab designing, data cleaning and processing, and visulization  
    + Yanchen Chen: "Scoreboard" Tab designing, data visulization and modeling
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
