@@ -3,7 +3,7 @@
 ## Project Title: College Sense
 
 
-![image](doc/Screen Shot 2018-10-11 at 10.21.46 AM.png)
+![image](doc/page1.png)
 
 Term: Fall 2018
 
