@@ -1,6 +1,9 @@
 # Project 2: Shiny App Development Version 2.0
 
 ## Project Title: College Sense
+
+![image](doc/Screen Shot 2018-10-11 at 10.21.46 AM.png)
+![image](doc/Screen Shot 2018-10-11 at 10.22.47 AM.png)
 Term: Fall 2018
 
 + Team #: Group 6
