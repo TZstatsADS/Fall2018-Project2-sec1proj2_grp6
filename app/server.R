@@ -1,6 +1,6 @@
 
 source("./www/helpers.R")
-source("./www/global.R")
+source("./global.R")
 
 ########################################server part########################################
 
