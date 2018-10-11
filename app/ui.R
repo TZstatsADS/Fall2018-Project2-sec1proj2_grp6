@@ -1,7 +1,7 @@
 
 source("./global.R")
 
-navbarPage(title="US Univeristies",id="nav", 
+navbarPage(title="College Sense",id="nav", 
            tabPanel("Home",icon = icon("home"),
 
                     absolutePanel(id="centered",class="panel panel-default",fixed=TRUE,
