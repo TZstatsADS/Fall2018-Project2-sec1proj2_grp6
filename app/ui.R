@@ -1,17 +1,20 @@
 
-source("./www/global.R")
+source("./global.R")
 
 navbarPage(title="US Univeristies",id="nav", 
            tabPanel("Home",icon = icon("home"),
-                  
+
                     absolutePanel(id="centered",class="panel panel-default",fixed=TRUE,
                                   draggable=F,
                                   width="auto", height="auto",
                                   strong(h1("FIND THE BEST COLLEGE FOR YOURSELF"))
-                  
+
                          ),
-                    
+
                     setBackgroundImage(src="graduation.jpg")),
+           # tabPanel("Home",icon = icon("home"),
+           #          h1("FIND THE BEST COLLEGE FOR YOURSELF"),
+           #          img(src="graduation.jpg", width = 1450)),
            ## One #####################################################################################
            tabPanel("College Information Map",icon = icon("map-marker"),
                          div(class="outer",
