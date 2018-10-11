@@ -4,6 +4,7 @@
 
 
 ![image](doc/page1.png)
+![image](doc/page2.png)
 
 Term: Fall 2018
 
